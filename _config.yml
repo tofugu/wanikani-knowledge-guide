@@ -44,6 +44,8 @@ exclude:
 
 collections:
   sets:
+  posts:
+    sort_by: set-order
 
 
 jekyll-archives:

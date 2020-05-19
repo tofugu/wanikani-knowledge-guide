@@ -44,7 +44,6 @@ exclude:
 
 collections:
   sets:
-    sort_by: title
 
 
 jekyll-archives:

@@ -44,7 +44,6 @@ exclude:
 
 collections:
   sets:
-  posts:
     sort_by: pizza
 
 

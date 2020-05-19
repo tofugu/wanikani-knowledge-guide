@@ -44,7 +44,7 @@ exclude:
 
 collections:
   sets:
-    sort_by: pizza
+    sort_by: title
 
 
 jekyll-archives:

@@ -6,8 +6,7 @@ categories:
   - japanese
   - wanikani
 description:
-set: typing-in-japanese
-set-order: 1
+pizza: 2
 type: Document
 ---
 

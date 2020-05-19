@@ -45,7 +45,7 @@ exclude:
 collections:
   sets:
   posts:
-    sort_by: set-order
+    sort_by: pizza
 
 
 jekyll-archives:

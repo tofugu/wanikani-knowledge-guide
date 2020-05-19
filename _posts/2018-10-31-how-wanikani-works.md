@@ -4,8 +4,7 @@ title: What is WaniKani?
 categories:
   - getting-started
 description:
-set: onboarding
-set-order: 1
+pizza: 1
 type: Document
 ---
 

@@ -4,8 +4,7 @@ title: Small vs Big Characters
 categories:
   - japanese
 description:
-set: typing-in-japanese
-set-order: 2
+pizza: 3
 type: Document
 ---
 

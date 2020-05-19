@@ -4,8 +4,7 @@ title: Doing Your First Lessons
 categories:
   - getting-started
 description:
-set: onboarding
-set-order: 2
+pizza: 4
 type: Document
 ---
 

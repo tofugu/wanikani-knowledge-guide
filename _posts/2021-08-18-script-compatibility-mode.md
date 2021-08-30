@@ -1,5 +1,5 @@
 ---
-date: 2021-08-25
+date: 2021-08-30
 title: Script Compatibility Mode
 categories:
   - wanikani

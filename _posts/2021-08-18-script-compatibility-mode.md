@@ -12,7 +12,7 @@ Scripts can check WaniKani's version by checking `window.WaniKani.version` to ma
 
 **v0.1.1 (August 30, 2021)** 
 - **Both Modes**: Fixed issue where network requests did not work in some cases on IE11 because `fetch` needed a polyfill
-- **Compatibility Mode Off**: Review queues are fetched with `fetch` and not $.ajax/$.getJSON
+- **Compatibility Mode Off**: Review queues are fetched with `fetch` and not `$.ajax` or `$.getJSON`
 
 **v0.1.0 (August 25, 2021)** Main bundles of lessons and reviews are now tied to the script compatibility setting. 
 - **Compatibility Mode On**: script tags serve lesson-legacy and review-legacy (plus hash in the filename)

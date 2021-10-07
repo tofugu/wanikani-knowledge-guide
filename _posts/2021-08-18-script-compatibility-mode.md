@@ -9,6 +9,8 @@ type: Document
 
 Changes that are affected by the Script Compatibility Mode setting are tracked here. Scripts can check WaniKani's version by checking `window.WaniKani.version` to match against this list.
 
+Subscribe to the [mailing list](https://tofugu.us1.list-manage.com/subscribe?u=b7f2114d74e3cac96344f797c&id=8b79442fb1) get notified when this page is updated. Make sure to check **UserScript Affecting Changes**.
+
 **v0.2.0 (September 20, 2021)**
 - **Compatibility Mode Off**: Notes in lessons are now rendered with React and submit with `fetch`.
 

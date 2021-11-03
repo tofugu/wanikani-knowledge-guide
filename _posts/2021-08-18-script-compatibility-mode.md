@@ -14,7 +14,7 @@ Subscribe to the [mailing list](https://tofugu.us1.list-manage.com/subscribe?u=b
 **v1.0.0 (November 3, 2021)**
 - **Compatibility Mode Off**: Marked as a major change, in case there are scripts that rely on the specific review queue updates.
   - activeQueue in jStorage will no longer have extra null items. For example if there are only 8 items left, it will be an array of length 8 instead of 10 with 2 items null. 
-  - arrays are updated using slice() instead of push() and pop()
+  - activeQueue and reviewQueue arrays are updated using slice() instead of push() and pop()
 
 **v0.7.0 (October 29, 2021)**
 - **Compatibility Mode Off**: Under lessons, the additional information panels have been redone in React. There are minor markup and visual differences.

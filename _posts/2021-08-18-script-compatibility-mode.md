@@ -10,6 +10,10 @@ type: Document
 Changes that are affected by the Script Compatibility Mode setting are tracked here. Scripts can check WaniKani's version by checking `window.WaniKani.version` to match against this list.
 
 Subscribe to the [mailing list](https://tofugu.us1.list-manage.com/subscribe?u=b7f2114d74e3cac96344f797c&id=8b79442fb1) get notified when this page is updated. Make sure to check **UserScript Affecting Changes**.
+
+**v2.1.0 (November 17, 2021)**
+- **Compatibility Mode Off**: Under lessons, we've consolidated the logic for the `Skip` button. It makes it so that the same code drives all the parts of the system that take you to the next item, like keyboard navigation.
+
 **v2.0.0 (November 17, 2021)**
 - **Compatibility Mode Off**: 
   - `$.jStorage.get("reviewQueue")` now contain ids instead of objects.

@@ -11,6 +11,10 @@ With Extra Study you can practice your recent lessons and recent review mistakes
 
 ![Extra Study](/images/extra-study.jpg)
 
+WaniKani keeps track of your practice progress so you can close Extra Study at any time and resume your Extra Study later.
+For example, if you have 50 Recent Lessons to practice, you can finish 10 of them and close WaniKani. When you open Extra Study later, you'll continue with the remaining 40 Recent Lessons.
+You have to finish all items before doing them again.
+
 **Recent Lessons**
 
 Use Extra Study’s Recent Lessons mode if you’ve just finished doing a set of lessons and want to quiz yourself to make sure you’ve learned them. You can also use it if you’ve been having trouble with new lessons in reviews. Studying Recent Lessons during your free time will help improve your memory and give you a better chance of success in your upcoming reviews.

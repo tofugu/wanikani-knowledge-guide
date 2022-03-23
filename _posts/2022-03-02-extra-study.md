@@ -11,7 +11,7 @@ With Extra Study you can practice your recent lessons and recent review mistakes
 
 ![Extra Study](/images/extra-study.jpg)
 
-WaniKani will keep track of your Extra Study progress. Feel free to close it partway through, and when you open it again you’ll be able to continue with your remaining unfinished items. When you complete all items in a category, they'll re-randomize and become available again. Currently, there's no way to reset your progress manually.
+WaniKani will keep track of your Extra Study progress. Feel free to close it partway through, and when you open it again you’ll be able to continue your remaining unfinished items. After you complete all items in a category, they'll re-randomize and become available again. Currently, there's no way to reset your progress manually.
 
 Keep in mind that new items may get added or removed as you do reviews and lessons. For example, if you make new mistakes in reviews they'll be added, and if mistakes get too old they'll be removed.
 

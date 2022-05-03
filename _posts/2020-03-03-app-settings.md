@@ -26,8 +26,10 @@ Another setting you can choose is ‘shuffled’, meaning all new lessons regard
 
 You can also choose ‘ascending level then shuffled’ which means previous level lessons will be shown first, but the subjects (radicals, kanji, vocabulary) will be shuffled.
 
-**Review Ordering** The default for this is 'Shuffled', all reviews are randomly ordered. 
+**Review Ordering** 
+_This is a new feature we're gradually rolling out to all users._
 
+The default for this is 'Shuffled', all reviews are randomly ordered. 
 You can also choose 'Lowest level first', reviews for the lowest level subjects will come first.
 We still shuffle subjects within a range of 50. This means that in a review session, your lowest level subject will be in the first 50 items you review.
 

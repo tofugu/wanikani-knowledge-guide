@@ -29,9 +29,7 @@ You can also choose ‘ascending level then shuffled’ which means previous lev
 **<a name="review-ordering">Review Ordering</a>** _This is a new feature we're gradually rolling out to all users._
 
 - The default for this is 'Shuffled', which means that all reviews appear in random order.
-- You can also choose 'Lowest level first', reviews for the lowest level subjects will come first.
-Even though they are ordered by lowest level, we still shuffle subjects within a range of 50. 
-This means that in a review session, your lowest level subject will be in the first 50 items you review.
+- You can also choose 'Lower levels first', which is still random but prioritizes showing lower level subjects first.
 
 **Lessons & review counts email update frequency:** Here you can choose how often you want to be emailed about your latest lessons and review count: daily, semiweekly, or weekly. Note that this is not a live notification of when you get new lessons or reviews.  
 

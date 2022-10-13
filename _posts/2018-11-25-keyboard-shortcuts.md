@@ -13,12 +13,14 @@ Check them out:
 
 ## Lessons
 
-`W` `A` `S` `D` Slide Navigation \\
+`W` `A` `S` `D` Slide Navigation _(see below)_ \\
 `←` `→` Previous/Next Slide \\
 `Enter` Next Slide \\
 `G` Skip Item Lesson \\
 `Q` Start Quiz (Active when green) \\
 `J` Audio Pronunciation
+
+Think of the `W` `A` `S` `D`  keys like the arrow keys but for your other hand. `A` will move you left (aka previous slide) and `D` will move you right (aka forward one slide). For vocabulary lessons that have `Common Word Combinations / Patterns of Use` the `W` key will move up through the different patterns of use, while `S` will move you down.
 
 ## Reviews
 

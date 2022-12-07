@@ -32,5 +32,3 @@ You can also choose ‘ascending level then shuffled’ which means previous lev
 - You can also choose 'Lower levels first', which is still random but prioritizes showing lower level subjects first.
 
 **Lessons & review counts email update frequency:** Here you can choose how often you want to be emailed about your latest lessons and review count: daily, semiweekly, or weekly. Note that this is not a live notification of when you get new lessons or reviews.  
-
-**Script Compatibility Mode:** Turn this on if you're having issues with your custom userscripts. Details on what's covered by script compatibility mode are on the [Script Compatibility page](/wanikani/script-compatibility-mode). For most users, we recommend leaving Script Compatibility Mode off to make sure you get the latest improvements in WaniKani.

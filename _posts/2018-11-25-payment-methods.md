@@ -13,7 +13,7 @@ WaniKani is a paid service after level 3. If you want to continue, you need to f
 
 WaniKani accepts most major credit cards. These ones:
 
-![Accepted card types](/images/accepted-card-types.png)
+![Accepted card types - AMEX, Diners Club, Discover, JCB, MasterCard, Visa](/images/accepted-card-types.png)
 
 If you don’t have access to a credit or debit/bank card, we can manually accept PayPal for users outside of the US. For PayPal, you can choose to do 3 months, 6 months, yearly, or Lifetime memberships. If you’re interested in this method, please [contact us](/account-and-membership/wanikani/contact-page/) with your PayPal email and billing address.
 
@@ -27,8 +27,8 @@ Maybe. If you’re planning to use a prepaid/gift card make sure that 1) it has 
 
 Some prepaid cards really don’t like being used online, and some do. It’s a toss up whether they’ll work, but you can always try.
 
-## Can I use Apple Pay/Venmo/bank transfer/Western Union/Bitcoin/etc.?
+## What other payment methods are available to use?
 
-Nope! If it isn't a credit/bank card or PayPal, we cannot accept it.
+Aside from credit/debit card and PayPal, we accept [Apple Pay](https://stripe.com/docs/connect/payment-method-available-countries#apple-pay), [Google Pay](https://stripe.com/docs/connect/payment-method-available-countries#google-pay), or [Link](https://stripe.com/docs/connect/payment-method-available-countries#link). These options are only available in certain regions, so click on the links to see if your country participates.
 
 <small><small>Though I heard a rumor Koichi is willing to talk to people with Dogecoin. Just a rumor though, probably unfounded.

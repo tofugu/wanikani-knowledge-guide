@@ -9,7 +9,7 @@ type: Document
 
 With Extra Study you can practice your recent lessons and recent review mistakes with the same quiz interface. Unlike reviews, in Extra Study your mistakes don’t count. You can practice them as much (or as little) as you want. Extra Study is completely optional!
 
-![Extra Study](/images/extra-study.jpg)
+![Extra Study](/images/extra-study-burned.png)
 
 WaniKani will keep track of your Extra Study progress. Feel free to close it partway through, and when you open it again you’ll be able to continue your remaining unfinished items. After you complete all items in a category, they'll re-randomize and become available again. Currently, there's no way to reset your progress manually.
 
@@ -34,3 +34,11 @@ Use Extra Study’s Recent Mistakes mode to practice mistakes in reviews. You do
 Any item you’ve made a mistake on within the last 24 hours of doing reviews will be part of this mode. Even if you got an item right in the last hour, but you got it wrong 10 hours ago, it’ll be part of Recent Mistakes.
 
 Both Recent Lessons and Recent Mistakes are there to help you be successful in your Reviews. Use them as much as you’d like, but only if you have the time for it. It’s called *Extra* Study for a reason, so don’t worry if you can’t get to them either.
+
+**Burned Items**
+
+Use Extra Study’s Burned Items mode to practice items you have already burned. We know that learning kanji (and Japanese) is a long term endeavor. If you’re not studying outside of WaniKani, you may not being seeing the items you’ve burned as regularly in day-to-day life as you might like. Although burned items are supposed to be “burned into your memory,” it’s not impossible to forget them. So, when you have some extra time, jump into your burned items queue in Extra Study to review as many—or as few—burned items as you’d like.
+
+**What's considered a Burned Item**
+
+A burned item is simply an item you have reviewed correctly through all the SRS levels and that will no longer appear in your review queue. If you feel you don't know the item well enough while doing your extra study, you can always resurrect it on the item's page and it will return to Apprentice level. This means the item will also leave the extra study queue.

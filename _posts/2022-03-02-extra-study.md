@@ -39,6 +39,6 @@ Both Recent Lessons and Recent Mistakes are there to help you be successful in y
 
 Use Extra Study’s Burned Items mode to practice items you have already burned. We know that learning kanji (and Japanese) is a long term endeavor. If you’re not studying outside of WaniKani, you may not being seeing the items you’ve burned as regularly in day-to-day life as you might like. Although burned items are supposed to be “burned into your memory,” it’s not impossible to forget them. So, when you have some extra time, jump into your burned items queue in Extra Study to review as many—or as few—burned items as you’d like.
 
-**What's considered a Burned Item**
+**What's considered a Burned Item?**
 
 A burned item is simply an item you have reviewed correctly through all the SRS levels and that will no longer appear in your review queue. If you feel you don't know the item well enough while doing your extra study, you can always resurrect it on the item's page and it will return to Apprentice level. This means the item will also leave the extra study queue.

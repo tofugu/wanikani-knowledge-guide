@@ -15,7 +15,7 @@ If you switch from a monthly to an annual subscription, any unused time will be 
 
 ## Annual to Monthly
 
-If you switch from an annual to a monthly subscription, any unused time you have will be credited to your account. Each month, we will draw from that until it’s gone. When you've used that up, normal monthly payment charges will start up again.
+You can’t switch in the middle of your Annual plan. You can cancel your Annual plan in advance, and once the subscription period ends, you can subscribe to a Monthly plan.
 
 ## Monthly or Annual to Lifetime
 

@@ -15,7 +15,7 @@ If you switch from a monthly to an annual subscription, any unused time will be 
 
 ## Annual to Monthly
 
-You can’t switch switch in the middle of your Annual plan. You can cancel your Annual plan in advance, and once the subscription period ends, you can subscribe to a Monthly plan.
+You can’t switch in the middle of your Annual plan. You can cancel your Annual plan in advance, and once the subscription period ends, you can subscribe to a Monthly plan.
 
 ## Monthly or Annual to Lifetime
 

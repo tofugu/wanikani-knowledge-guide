@@ -15,11 +15,9 @@ WaniKani accepts most major credit cards. These ones:
 
 ![Accepted card types: AMEX, Diners Club, Discover, JCB, MasterCard, Visa](/images/accepted-card-types.png)
 
-If you don’t have access to a credit or debit/bank card, we can manually accept PayPal for users outside of the US. For PayPal, you can choose to do 3 months, 6 months, yearly, or Lifetime memberships. If you’re interested in this method, please [contact us](/account-and-membership/wanikani/contact-page/) with your PayPal email and billing address.
-
 ## Can I use other currencies?
 
-Yup! If you're from outside the United States, the currency conversion will be handled by your bank or card provider. Likewise, if you use PayPal, make sure to select USD and they'll convert it to the correct amount for you. Be aware that some banks may charge you additional fees for the currency conversion (it's not us, promise).
+Yup! If you're from outside the United States, the currency conversion will be handled by your bank or card provider. Be aware that some banks may charge you additional fees for the currency conversion (it's not us, promise).
 
 ## What about pre-paid cards?
 
@@ -29,6 +27,6 @@ Some prepaid cards really don’t like being used online, and some do. It’s a 
 
 ## What other payment methods are available to use?
 
-Aside from credit/debit card and PayPal, we accept [Apple Pay](https://stripe.com/docs/connect/payment-method-available-countries#apple-pay), [Google Pay](https://stripe.com/docs/connect/payment-method-available-countries#google-pay), or [Link](https://stripe.com/docs/connect/payment-method-available-countries#link). These options are only available in certain regions, so click on the links to see if your country participates.
+Aside from credit/debit card, we accept [Apple Pay](https://stripe.com/docs/connect/payment-method-available-countries#apple-pay), [Google Pay](https://stripe.com/docs/connect/payment-method-available-countries#google-pay), or [Link](https://stripe.com/docs/connect/payment-method-available-countries#link). These options are only available in certain regions, so click on the links to see if your country participates.
 
 <small><small>Though I heard a rumor Koichi is willing to talk to people with Dogecoin. Just a rumor though, probably unfounded.

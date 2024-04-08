@@ -9,11 +9,11 @@ set-order: 2
 type: Document
 ---
 
-Now that you have a basic understanding of [how WaniKani works](/getting-started/how-wanikani-works/), it's time to learn something. To begin, hit the pink "Lessons" button that's located below the "WaniKani" logo on the left side of your screen. The number on the lower righthand corner shows you how many lessons you currently have.
+Now that you have a basic understanding of [how WaniKani works](/getting-started/how-wanikani-works/), it's time to learn something. To begin, hit the white “Start Lessons” button that’s located inside the pink button on the left side of your screen. The number in the upper lefthand corner shows you how many lessons you have today, hence the name “Today’s Lessons”.
 
-![WaniKani lessons button](/images/lessons-button.gif)
+![WaniKani lessons button](/images/lessons-button3.gif)
 
-This will take you to your available lessons where you will be able to learn the first set of radicals. Everything else builds off these 26 radicals, so do your best!
+This will take you to your lessons where you will be able to begin learning the first set of radicals. If you’d like to complete all of your radicals at once, click Advanced > Select all > Start Lessons to begin. Everything else builds off these 25 radicals, so do your best!
 
 ## Learning the Lessons
 
@@ -55,9 +55,9 @@ When you've completed all the lessons available to you as a new user, you can do
 
 1. Work on the lessons again from the “Recent Lessons” in the [Extra Study](/getting-started/extra-study/) section:
 
-![Extra Study](/images/extrastudy.jpg)
+![Extra Study](/images/extra-study2.png)
 
-You definitely don’t need to, but if you have spare time and you’d like to strengthen your memory, you can do the lessons again by clicking on the pink button. Your results from Extra Study don’t count towards anything, so no pressure!
+You definitely don’t need to, but if you have spare time and you’d like to strengthen your memory, you can do the lessons again by clicking on “Recent Lessons” button. Your results from Extra Study don’t count towards anything, so no pressure!
 
 Or
 2. You can [complete your most difficult task yet: waiting](/getting-started/waiting-for-reviews/).

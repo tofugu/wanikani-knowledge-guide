@@ -15,15 +15,11 @@ WaniKani has a number of different [settings](https://www.wanikani.com/settings/
 
 Choose between 5 vocabulary pronunciation audio preferences:
 
-**Masculine Only:** Kenichi audio plays when it’s available. If Kenichi audio is unavailable, no audio plays.
-
-**Prefer Masculine:** Kenichi audio plays when it’s available. If Kenichi audio is unavailable, another available audio type plays.
-
-**Feminine Only:** Kyoko or Miyuki audio plays when one is available. If both are available, one plays at random. If Kyoko and Miyuki audio are both unavailable, no audio plays.
-
-**Prefer Feminine:** Kyoko or Miyuki audio plays when one is available. If both are available, one plays at random. If Kyoko and Miyuki audio are both unavailable, Kenichi audio plays.
-
-**Random:** Audio plays at random from the options available.
+* **Masculine Only:** Kenichi audio plays when it’s available. If Kenichi audio is unavailable, no audio plays.
+* **Prefer Masculine:** Kenichi audio plays when it’s available. If Kenichi audio is unavailable, another available audio type plays.
+* **Feminine Only:** Kyoko or Miyuki audio plays when one is available. If both are available, one plays at random. If Kyoko and Miyuki audio are both unavailable, no audio plays.
+* **Prefer Feminine:** Kyoko or Miyuki audio plays when one is available. If both are available, one plays at random. If Kyoko and Miyuki audio are both unavailable, Kenichi audio plays.
+* **Random:** Audio plays at random from the options available.
 
 **Autoplay**
 * Turn on or off the autoplay option to hear audio during lessons

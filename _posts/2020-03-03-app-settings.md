@@ -26,11 +26,13 @@ Choose between 5 vocabulary pronunciation audio preferences:
 * Turn on or off the autoplay option to hear audio during reviews
 * Turn on or off the autoplay option to hear audio in Extra Study
 
-![Lessons and Reviews Settings](/images/lesson-settings-maximum.png)
+![Lessons and Reviews Settings](/images/lesson-settings.png)
 
 **Preferred Lesson Batch Size:** The default number is 5 lessons (individual items) before a quiz. If you want to learn more or less radicals, kanji, or vocabulary before the quiz, you can adjust this anywhere from 3 to 10 lessons.
 
 **Maximum Recommended Daily Lessons:** Set the maximum number of "Today’s Lessons" you will get per day. The maximum value is 100 and the minimum is 0.
+
+**Interleave Advanced Lessons:** Controls whether lessons selected on the Advanced Lessons page are mixed or ordered by lesson order.
 
 **SRS Update Indicator During Reviews:** During the review session the SRS change indicator will appear for items completed.
 

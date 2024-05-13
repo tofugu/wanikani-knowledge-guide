@@ -27,6 +27,8 @@ You’ll then be taken to the “Lesson Picker”. From there you can hit “Bat
 
 ![Lesson Picker Items Selected](/images/lesson-picker-webpage.png)
 
+### Interleaving Lessons
+
 You may choose how your lesson are ordered by toggling the “Interleave Lessons” checkbox.  When "Interleave Lessons" is checked the items will be proportionally distributed and arranged so that you get a mix of item types in each batch. When unchecked the items will be ordered by level first, then item type (radicals, then kanji, then vocabulary), then by the lesson order we set for each item.
 
 You can read more about interleaving [here](https://www.tofugu.com/japanese/interleaving-japanese/).

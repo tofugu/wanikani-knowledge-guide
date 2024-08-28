@@ -1,6 +1,6 @@
 ---
 date: 2024-08-25 14:00
-title: Does WaniKani Have an Skip or "I Don't Know" Button?
+title: Does WaniKani Have a Skip or "I Don't Know" Button?
 categories:
   - wanikani
 description:

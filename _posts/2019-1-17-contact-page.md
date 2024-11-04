@@ -10,7 +10,7 @@ type: Document
 
 There are a few different ways to get in touch with us.
 
-* <a onclick="FrontChat('show')" tabindex="0" role="link">Chat with Us</a> 
+* <a onclick="FrontChat('show')" tabindex="0" role="link">Chat with Us</a>
 * Email: [hello@wanikani.com](mailto:hello@wanikani.com)
 * Twitter: [@wanikaniapp](https://twitter.com/WaniKaniApp)
 
@@ -24,7 +24,7 @@ If you're reporting a typo or a content-related error, make sure to include the 
 
 If you're reporting a bug, describe what happened and when. Some good information to include would be:
 
-1. What OS and browser were you using? (You can check yours [here](https://supportdetails.com) if you're not sure.)
+1. What OS and browser were you using? (You can check yours [here](https://www.mysupportdetails.com) if you're not sure.)
 2. Are you using any third-party scripts or extensions with WaniKani?
 3. Did you have more than one tab of WaniKani open at the time? (Oh oh, don't do that.)
 

@@ -1,5 +1,5 @@
 ---
-date: 2020-04-22 7:00
+date: 2024-10-30 7:00
 title: WaniKani Premium Membership
 categories:
   - getting-started
@@ -17,9 +17,9 @@ Any premium membership type gives you access to all of the content on WaniKani, 
 
 The current premium membership options are:
 
-* Monthly ($9/month)
-* Annual ($89/year)
-* Lifetime ($299/once)
+- Monthly ($9/month, additional tax or VAT may be applied at checkout)
+- Annual ($89/year, additional tax or VAT may be applied at checkout)
+- Lifetime ($299/once, additional tax or VAT may be applied at checkout)
 
 Wow! That's the price of a $299 cup of coffee! To get a premium account, [visit the subscriptions page in your settings](https://www.wanikani.com/account/subscription).
 

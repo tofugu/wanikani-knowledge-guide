@@ -12,13 +12,13 @@ Monthly and Annual subscriptions to WaniKani are... subscriptions! That means th
 
 If you don't want your subscription to renew, you'll need to stop it manually.
 
-Head over to the [Billing page](https://www.wanikani.com/account/subscription/billing) and hit cancel.
+Head over to the [Subscription page](https://www.wanikani.com/account/subscription) and Click the button in the Manage Payment Details section or Manage Your Plan section.
 
 ![Cancel Subscription](/images/cancel-subscription.gif)
 
 Once you choose to cancel, your account will no longer resubscribe when it runs out. We'll send you an email before it cancels though, so you'll have time to change your mind.
 
-You can also remove your card from the [Billing page](https://www.wanikani.com/account/subscription/billing) by updating your card information.
+You can also remove your card from the [Subscription page](https://www.wanikani.com/account/subscription) by updating your card information.
 
 ![Delete Card](/images/remove-card.gif)
 

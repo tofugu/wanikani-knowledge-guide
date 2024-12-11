@@ -7,7 +7,7 @@ description:
 type: Document
 ---
 
-If your credit card expires or you want to put a different card on file, head over to your [subscription page](https://www.wanikani.com/account/subscription) to change your information. Go to the Manage Payment Details section and click the Update Details button.
+If your credit card expires or you want to put a different card on file, head over to your [subscription page](https://www.wanikani.com/account/subscription) to change your information. Click the button in the Manage Payment Details section or Manage Your Plan section.
 
 ![Update Card](/images/update-details.png)
 

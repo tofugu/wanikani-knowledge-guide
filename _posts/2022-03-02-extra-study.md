@@ -31,9 +31,9 @@ Use Extra Study’s Recent Mistakes mode to practice mistakes in reviews. You do
 
 **What’s considered a Recent Mistake?**
 
-Any item you’ve made a mistake on within the last 24 hours of doing reviews will be part of this mode. Even if you got an item right in the last hour, but you got it wrong 10 hours ago, it’ll be part of Recent Mistakes.
+Any item you’ve made a mistake on within the last 24 hours of doing reviews will be part of this mode. However, in those 24 hours, if you get that item correct in reviews, it will be removed from Recent Mistakes at that time.
 
-Both Recent Lessons and Recent Mistakes are there to help you be successful in your Reviews. Use them as much as you’d like, but only if you have the time for it. It’s called *Extra* Study for a reason, so don’t worry if you can’t get to them either.
+Both Recent Lessons and Recent Mistakes are there to help you be successful in your Reviews. Use them as much as you’d like, but only if you have the time for it. It’s called _Extra_ Study for a reason, so don’t worry if you can’t get to them either.
 
 **Burned Items**
 
